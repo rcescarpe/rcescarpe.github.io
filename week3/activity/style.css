@@ -1,0 +1,91 @@
+body{
+    background-color: #16365d;
+}
+
+p{
+    color: white;
+    font-family: Arial;
+}
+
+.block{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+h1{
+    color: white;
+    font-family: Arial;
+}
+
+ul{
+    color: white;
+    font-family: Arial;
+}
+.tables{
+    color: red;
+    font-family: Arial;
+    font-style: italic;
+}
+.foot{
+    color: magenta;
+    font-weight: bold;
+}
+.h1{
+    color: red;
+}
+
+.pic{
+    color: yellow;
+    text-decoration: underline;
+}
+
+.select{
+    color: blue;
+    font-weight: bold;
+}
+.quick{
+    color: lime;
+    font-weight: bold;
+}
+.format{
+    background-color: black;
+    border-top: 2px solid red;
+    padding-right: 200px;
+    padding-bottom: 25px;
+    border-left: 2px solid red;
+}
+.direct{
+    color: rgb(15, 51, 255);
+    font-style: italic;
+}
+.theme{
+    color: red;
+    font-weight: bold;
+}
+.include{
+    background-color: lime;
+    color: black;
+    font-weight: bold;
+    padding-left: 2px;
+}
+h2{
+    font-family: Arial;
+    color: lime;
+}
+
+.par1{
+    background-color: black;
+    padding: 50px;
+    font-style: italic;
+}
+
+h3{
+    font-family: Arial;
+    color: yellow;
+    border-bottom: 2px solid yellow;
+    text-align: center;
+    width: 50%;
+}
+.par3{
+    background-color: red;
+}

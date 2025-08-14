@@ -1,0 +1,34 @@
+h1{
+    color: black;
+}
+
+p{
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+    font-style: italic;
+    font-family: Arial;
+    background-color: violet;
+    margin:100px ;
+    width: 50%;
+}
+
+.par1{
+    background-color: purple;
+    color: white;
+    width: 50%;
+    border-top: 3px dashed black;
+    border-bottom:3px dotted black ;
+    padding-top: 100px;
+}
+
+.myspan{
+    color: blue;
+}
+
+body{
+    background-color: gray;
+    background-image: url("images/download.jpg");
+    background-size: cover;
+}
