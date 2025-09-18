@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper1{
+    display: flex;
+    background-color: #212529;
+}
+.images1{
+    margin-left: 10px;
+    
+}
+.arat{
+    font-family: Arial;
+    color: white;
+    margin-left:20px ;
+}
+.home{
+    font-family: Arial;
+    background-color: #198753;
+    color: white;
+    margin-left: 900px;
+}
+.feat{
+    font-family: Arial;
+    margin-left: 30px;
+    color: white;
+}
+.price{
+    font-family: Arial;
+    margin-left: 30px;
+    color: white;
+}
+.faqs{
+    font-family: Arial;
+    margin-left: 30px;
+    color: white;   
+}
+.about{
+    font-family: Arial;
+    margin-left: 30px;
+    color: white;
+}
+.wrapper2{
+    display: flex;
+}
+
+.info{
+    background-color: #e2e3e5;
+
+    
+}
+.create{
+    font-family: Arial;
+    margin-left: 75px;
+    color: black;
+}
+.firstname{
+    font-family: Arial;
+    margin-left: 75px;
+    color: black;
+}
+.fn_input{
+    margin-left: 75px;
+}
+.lastname{
+    font-family: Arial;
+    margin-left: 75px;
+    color: black;
+}
+.ln_input{
+    margin-left: 75px;
+}
+.username{
+    font-family: Arial;
+    margin-left: 75px;
+    color: black;
+}
+.un_input{
+    margin-left: 75px;
+}
+
+.wrapper3{
+    display: flex;
+}
+
+.city{
+    font-family: Arial;
+    margin-left: 75px;
+    color: black;
+}
+.ct_input{
+    margin-left: 75px;
+}
+.state{
+    font-family: Arial;
+    margin-left: 15px;
+    color: black;
+}
+.st_input{
+    margin-left: 15px;
+}
+.zip{
+    font-family: Arial;
+    margin-left: 15px;
+    color: black;
+}
+.zp_input{
+    margin-left: 15px;
+}
+.agree{
+    display: flex;
+}
+.check_in{
+    margin-left: 75px;
+}
+.terms{
+    font-family: Arial;
+    margin-left: 15px;
+    color: black;
+}
